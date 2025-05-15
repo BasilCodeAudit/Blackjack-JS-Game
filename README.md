@@ -14,6 +14,12 @@ A browser-based Blackjack game designed to reflect custom logic, styling, and te
 
 ---
 
+## 📸 Preview
+
+![Screenshot 2025-05-15 145510](https://github.com/user-attachments/assets/a5318f64-d384-4db2-8cc9-1d7ca9bbe994)
+
+---
+
 ## 🧪 Testing Opportunities
 
 - Score correctness validation
