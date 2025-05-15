@@ -1,1 +1,38 @@
-# Blackjack-JS-Game
+# 🃏 Blackjack JavaScript Game
+
+A browser-based Blackjack game designed to reflect custom logic, styling, and testable gameplay flow. An ideal project to explore QA thinking in logic-heavy UIs.
+
+---
+
+## ♠️ Features
+
+- Hit / Stand controls
+- Score tracking logic
+- Dealer behavior simulation
+- Clean UI design with centered layout
+- Footer with personal credit and social icons
+
+---
+
+## 🧪 Testing Opportunities
+
+- Score correctness validation
+- Win/Lose logic verification
+- Button behavior in different game states
+- Mocking randomness (deck draw logic)
+
+---
+
+## 🛠 Tech Stack
+
+- HTML
+- CSS
+- JavaScript
+
+---
+
+## 🔗 Personal Links
+
+- [LinkedIn](https://linkedin.com/in/basilfarra)
+
+> Designed & developed by **Basil Al-Farra**
